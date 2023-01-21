@@ -30,7 +30,9 @@
 
 ```bash
 $ npm install
-```
+
+## Add DataBase
+```You need to add a database in mongoDB Named "Blogs" and a collection named "blogs"
 
 ## Running the app
 
